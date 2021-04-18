@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# SSL self-sign cert
+
+certificate.pem
+certrequest.csr
+privatekey.pem
+
+# vim
+.swp*
